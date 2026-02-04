@@ -8,51 +8,51 @@ This project demonstrates how to configure a highly available web application us
 ## Architecture & Screenshots
 
 ### Screenshot 1
-![Screenshot](images/1.png)
+![Screenshot](image/1.png)
 Linux EC2 instance created and connected successfully using SSH.
 
 ### Screenshot 2
-![Screenshot](images/2.png)
+![Screenshot](image/2.png)
 Apache web server installed and running on Linux instance.
 
 ### Screenshot 3
-![Screenshot](images/3.png)
+![Screenshot](image/3.png)
 Windows Server EC2 instance created and accessed using RDP.
 
 ### Screenshot 4
-![Screenshot](images/4.png)
+![Screenshot](image/4.png)
 IIS installed and configured on Windows Server.
 
 ### Screenshot 5
-![Screenshot](images/5.png)
+![Screenshot](image/5.png)
 Application Load Balancer creation process.
 
 ### Screenshot 6
-![Screenshot](images/6.png)
+![Screenshot](image/6.png)
 Listener configuration for HTTP/HTTPS.
 
 ### Screenshot 7
-![Screenshot](images/7.png)
+![Screenshot](image/7.png)
 Target group created for EC2 instances.
 
 ### Screenshot 8
-![Screenshot](images/8.png)
+![Screenshot](image/8.png)
 Linux and Windows servers registered in target group.
 
 ### Screenshot 9
-![Screenshot](images/9.png)
+![Screenshot](image/9.png)
 Health check status showing healthy instances.
 
 ### Screenshot 10
-![Screenshot](images/10.png)
+![Screenshot](image/10.png)
 CloudWatch metrics monitoring load balancer.
 
 ### Screenshot 11
-![Screenshot](images/11.png)
+![Screenshot](image/11.png)
 Accessing application through Load Balancer DNS.
 
 ### Screenshot 12
-![Screenshot](images/12.png)
+![Screenshot](image/12.png)
 Testing load balancing from different devices.
 
 ---
