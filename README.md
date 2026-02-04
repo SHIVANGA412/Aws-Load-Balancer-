@@ -12,11 +12,11 @@ This project demonstrates how to configure a highly available web application us
 Linux EC2 instance created and connected successfully using SSH.
 
 ### Screenshot 2
-![Screenshot](image/2.png)
+![Screenshot](image/2.jpg)
 Apache web server installed and running on Linux instance.
 
 ### Screenshot 3
-![Screenshot](image/3.png)
+![Screenshot](image/3.jpg)
 Windows Server EC2 instance created and accessed using RDP.
 
 ### Screenshot 4
@@ -28,7 +28,7 @@ IIS installed and configured on Windows Server.
 Application Load Balancer creation process.
 
 ### Screenshot 6
-![Screenshot](image/6.png)
+![Screenshot](image/6.jpg)
 Listener configuration for HTTP/HTTPS.
 
 ### Screenshot 7
@@ -36,7 +36,7 @@ Listener configuration for HTTP/HTTPS.
 Target group created for EC2 instances.
 
 ### Screenshot 8
-![Screenshot](image/8.png)
+![Screenshot](image/8.jpg)
 Linux and Windows servers registered in target group.
 
 ### Screenshot 9
@@ -48,11 +48,11 @@ Health check status showing healthy instances.
 CloudWatch metrics monitoring load balancer.
 
 ### Screenshot 11
-![Screenshot](image/11.png)
+![Screenshot](image/11.jpg)
 Accessing application through Load Balancer DNS.
 
 ### Screenshot 12
-![Screenshot](image/12.png)
+![Screenshot](image/12.jpg)
 Testing load balancing from different devices.
 
 ---
